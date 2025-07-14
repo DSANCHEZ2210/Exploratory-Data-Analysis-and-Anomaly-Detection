@@ -1,0 +1,36 @@
+
+🕒 2025-01-11 18:53:24+00:00: Anomalías en energyPerPreform_CurrentTemperatureBrake.1, numberOfActivatedRadiators_CurrentTemperatureBrake.1, powerPerPreform_CurrentTemperatureBrake.1
+🕒 2025-01-11 18:53:25+00:00: Anomalías en energyPerPreform_CurrentTemperatureBrake.1, numberOfActivatedRadiators_CurrentTemperatureBrake.1, powerPerPreform_CurrentTemperatureBrake.1
+🕒 2025-01-11 19:16:48+00:00: Anomalías en energyPerPreform_CurrentTemperatureBrake.2, numberOfActivatedRadiators_CurrentTemperatureBrake.2, powerPerPreform_CurrentTemperatureBrake.2
+🕒 2025-01-11 19:32:08+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-11 20:44:27+00:00: Anomalías en energyPerPreform_ActualTemperatureCoolingCircuit2.0, numberOfActivatedRadiators_ActualTemperatureCoolingCircuit2.0, powerPerPreform_ActualTemperatureCoolingCircuit2.0
+🕒 2025-01-12 01:16:05+00:00: Anomalías en energyPerPreform_CurrentPreformTemperatureOvenInfeed.0, numberOfActivatedRadiators_CurrentPreformTemperatureOvenInfeed.0, powerPerPreform_CurrentPreformTemperatureOvenInfeed.0
+🕒 2025-01-12 01:16:06+00:00: Anomalías en energyPerPreform_CurrentPreformTemperatureOvenInfeed.0, numberOfActivatedRadiators_CurrentPreformTemperatureOvenInfeed.0, powerPerPreform_CurrentPreformTemperatureOvenInfeed.0
+🕒 2025-01-12 01:16:20+00:00: Anomalías en energyPerPreform_CurrentPreformTemperatureOvenInfeed.0, numberOfActivatedRadiators_CurrentPreformTemperatureOvenInfeed.0, powerPerPreform_CurrentPreformTemperatureOvenInfeed.0
+🕒 2025-01-12 01:23:25+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 01:23:29+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 01:23:33+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 01:23:39+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:20:21+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:37:32+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:37:35+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:37:38+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:37:39+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:55:24+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:55:25+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 02:55:27+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 03:01:27+00:00: Anomalías en energyPerPreform_ActualTemperatureCoolingCircuit2.0, numberOfActivatedRadiators_ActualTemperatureCoolingCircuit2.0, powerPerPreform_ActualTemperatureCoolingCircuit2.0
+🕒 2025-01-12 03:01:38+00:00: Anomalías en energyPerPreform_ActualTemperatureCoolingCircuit2.0, numberOfActivatedRadiators_ActualTemperatureCoolingCircuit2.0, powerPerPreform_ActualTemperatureCoolingCircuit2.0
+🕒 2025-01-12 03:01:58+00:00: Anomalías en energyPerPreform_ActualTemperatureCoolingCircuit2.0, numberOfActivatedRadiators_ActualTemperatureCoolingCircuit2.0, powerPerPreform_ActualTemperatureCoolingCircuit2.0
+🕒 2025-01-12 03:02:11+00:00: Anomalías en energyPerPreform_ActualTemperatureCoolingCircuit2.0, numberOfActivatedRadiators_ActualTemperatureCoolingCircuit2.0, powerPerPreform_ActualTemperatureCoolingCircuit2.0
+🕒 2025-01-12 05:38:42+00:00: Anomalías en energyPerPreform_CurrentTemperatureBrake.2, numberOfActivatedRadiators_CurrentTemperatureBrake.2, powerPerPreform_CurrentTemperatureBrake.2
+🕒 2025-01-12 05:53:55+00:00: Anomalías en energyPerPreform_CurrentTemperatureBrake.2, numberOfActivatedRadiators_CurrentTemperatureBrake.2, powerPerPreform_CurrentTemperatureBrake.2
+🕒 2025-01-12 05:53:58+00:00: Anomalías en energyPerPreform_CurrentTemperatureBrake.2, numberOfActivatedRadiators_CurrentTemperatureBrake.2, powerPerPreform_CurrentTemperatureBrake.2
+🕒 2025-01-12 07:18:03+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 07:18:07+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 07:18:09+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 07:18:10+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 07:18:11+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 07:24:47+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+🕒 2025-01-12 07:24:49+00:00: Anomalías en energyPerPreform_CurrentPreformNeckFinishTemperature.0, numberOfActivatedRadiators_CurrentPreformNeckFinishTemperature.0, powerPerPreform_CurrentPreformNeckFinishTemperature.0
+
